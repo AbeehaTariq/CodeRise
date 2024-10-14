@@ -11,12 +11,6 @@ This repository is my initial step into coding and version control. It currently
 
 ## Getting Started
 
-### Prerequisites
-
-- C++ compiler (like g++, clang)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/CodeRise.git
+- Clone the repository:
+   - Use the git bash to clone the repository.
+   - Add this link on the git bash "git clone https://github.com/your-username/CodeRise.git" which clone your repository.
