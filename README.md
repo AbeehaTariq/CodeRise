@@ -13,4 +13,4 @@ This repository is my initial step into coding and version control. It currently
 
 - Clone the repository:
    - Use the git bash to clone the repository.
-   - Add this link on the git bash "git clone https://github.com/your-username/CodeRise.git" which clone your repository.
+   - Add this link on the git bash "git clone https://github.com/AbeehaTariq/CodeRise.git" which clone your repository.
