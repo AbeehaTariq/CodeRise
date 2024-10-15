@@ -8,7 +8,6 @@ public:
 	String(const char c);
 	String(const char*);
 	String(const String&);
-	String(String&&);
 	void input();
 	char& operator [](const int index);
 	const char& operator[](const int index)const;
@@ -31,7 +30,5 @@ public:
 	void makeUpper();
 	void makeLower();
 	void shirnk();
-	String left(const int count);
-	String right(const int count);
 	~String();
 }; 
