@@ -14,7 +14,8 @@ Welcome to CodeRise, a repository created by Abeeha Tariq. This repository is de
 ## How to use this repository
 
 1. Clone the repository:
-   - Open your terminal or command line and type the following command "git clone https://github.com/AbeehaTariq/CodeRise.git".
+   
+ - Open your terminal or command line and type the following command "git clone https://github.com/AbeehaTariq/CodeRise.git".
 
 2. Open the files:
 
