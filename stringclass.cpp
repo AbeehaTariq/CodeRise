@@ -29,25 +29,7 @@ String::String(const String& s)
 	}
 	data[size] = '\0';
 }
-String& String:: operator =(const String& s)
-{
-	if (this == &s)
-	{
-		return*this;
-	}
-	else
-	{
-		this->~String();
-		size = s.size;
-		data = new char[size+1];
-		for (int i = 0; i < size; i++)
-		{
-			data[i] = s.data[i];
-		}
-		data[size] = '\0';
-	}
-	return *this;
-}
+
 String& String:: operator =(String&& r)
 {
 	if (this == &r)
